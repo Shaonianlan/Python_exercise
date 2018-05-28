@@ -1,0 +1,10 @@
+<website>
+	<page name = 'index' title = 'Home Page'>
+		<h1>Weclome to My Home Page!</h1>
+
+		<p>Hi.ashdk npompf a</p>
+	</page>
+	<directory name = 'interests'>
+		<h1>Mr.Gumby's Shouting Page</h1>
+	</directory>
+</website>

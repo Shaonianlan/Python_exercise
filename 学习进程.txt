@@ -1,0 +1,113 @@
+6.30	下载安装IDEA,JAVA (JDK),Python,Sublime 工具，配置环境变量，
+     	安装插件，熟悉基本操作
+
+7.1	Java集成开发工具IDEA的使用（IDEA中project，module和eclipse中workspace，project相对应）
+     	基本数据类型，IDEA中的断点调试
+     	static ，final的使用和区别
+     	基本了解 unicode，utf-8等编码（中文占2字节）
+     	算法：插入排序，冒泡排序
+
+7.2	Java 数据类型转换，代码注释
+	条件判断（if，if...else，if...else if多分支语句，switch）	
+	循环语句（while，do...while，for,foreach）
+	循环控制（break,continue）	
+	Python 解释性语言 编译型语言	
+
+7.3	Java 值类型和引用类型的区别
+	堆内存， 栈内存
+	String的操作(indexOf,charAt(获取指定索引位置的字符),比较，分割)
+	Python 脚本语言 ，基本操作（条件判断）缩进代替{} 
+	内置函数的定义 
+
+7.4	Java 格式化字符串，正则表达式
+	String和StringBuilder的区别（StringBuilder附加字符串的时间短）
+	数组的排序
+	Python 变量（申明类型）,字符串
+
+7.5	Java 冒泡排序，直接选择排序，函数实现（数组作为参数传递）\
+	反转排序
+
+7.7	Java this关键字的作用初步了解,局部变量的作用范围
+	return 关键字的返回值返回到哪里
+	对象和对象引用的概念
+	包装类和Math类的初步认识
+	类的继承基本操作
+	Python 循环的基本使用
+
+7.8	Java 向上/下转型 方法的重载
+	多态性的实现
+	抽象类和接口（抽象类的延伸）
+	static 和 final 的使用（static final常量）
+	Python 的数据类型
+
+7.9	Java 内部类的基本使用
+	接口的使用 
+	private static的意义（static不要实例化 运行效率高）
+	子类重写父类的方法只能从小范围到大范围（private->public）
+	Python 的（if elif分支判断）
+	for 循环和range的使用
+
+7.10	Java 异常处理（try，catch，throws，throw的使用）
+	自定义异常类的操作
+	Exception 的种类要写具体（对症下药）
+ 
+7.11	Python 列表的概念和基本使用（list常用的内置函数）
+	Python 元组概念和列表的区别
+
+7.13	Java 集合类概述
+	I/O（输入输出） File类
+	Python 格式化 序列（列表 元组 字符串）
+
+7.14	Python 函数及其参数（形参par，实参arg）
+	关键字参数 默认参数  收集参数
+	Python 局部变量 ，全局变量
+
+7.15	Python lambda表达式（函数的简化） filter 筛选，map 加工
+	递归的基础概念
+	Java 窗体的基本使用
+	JAVA反射机制作用了解
+
+7.16	VMware的安装使用
+	Java 窗体的基础使用
+	Python 的递归	Fibonacci数列（斐波那契）
+	Python 格式化 format 字符串特有的（%）
+
+7.17	疯狂看科目四
+	Python	汉诺塔解决（递归）
+
+7.18	Python 字典的基本使用（创建 修改 访问）
+	字典的fromkeys方法（dict2=dict2.fromkeys()）
+
+7.19	Python 字典（keys values items 返回） 常用bif的了解
+	集合 set 和字典的区别（frozen set 不可变集合）
+	Python 文件的基础操作
+	整理，复习 0-9
+
+7.20	Python 复习整理
+
+7.21	Python复习 任务
+
+7.23	Python OS模块 OS.path模块
+	pickle 模块
+	异常处理
+	配置sublime 安装图形界面插件
+	
+7.24	Python 图形界面使用
+	Python 类和对象
+
+7.25	Python 继承 类和对象中常用的bif
+	构造和析构方法
+	算术运算
+
+7.26	Python 算术运算 反运算
+	计时器
+
+7.27	Python 描述符
+
+7.28	Python 练习1-20课
+
+7.30	Python 练习
+
+7.31	Python 练习
+
+8.1	Python 文件练习
